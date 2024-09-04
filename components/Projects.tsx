@@ -91,7 +91,7 @@ const Projects = () => {
               <h3 className="text-2xl font-bold">BlogApp Platform</h3>
             </div>
             <p className="text-sm md:text-base bg-[#112240] p-2 md:p-6 rounded-md xl:-mr-16">
-              Developed a "Blog App" platform enabling users to register, log in, and create personalized blogs, with secure authentication and user management using Appwrite as the backend service.
+              Developed a &quot;Blog App&quot; platform enabling users to register, log in, and create personalized blogs, with secure authentication and user management using Appwrite as the backend service.
             </p>
             <ul className="text-xs md:text-sm font-titleFont tracking-wide flex gap-2 md:gap-5 justify-between text-textDark">
               <li>HTML</li>
